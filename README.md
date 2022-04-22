@@ -25,3 +25,12 @@
 
 [![Lc2Bzq.gif](https://s1.ax1x.com/2022/04/21/Lc2Bzq.gif)](https://imgtu.com/i/Lc2Bzq)
 
+
+
+### Lab4: Pool Ripples
+
+- Shallow Wave to update height field
+- one-way coupling: expel water under the rigid body by setting up a virtual height
+
+[![LR50v4.gif](https://s1.ax1x.com/2022/04/22/LR50v4.gif)](https://imgtu.com/i/LR50v4)
+
